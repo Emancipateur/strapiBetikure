@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "lodges",
+  "info": {
+    "singularName": "lodge",
+    "pluralName": "lodges",
+    "displayName": "Lodge"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "TitrePage": {
+      "type": "string"
+    }
+  }
+}
